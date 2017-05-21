@@ -1,0 +1,2 @@
+$touch cookie.txt
+$ git status
